@@ -155,7 +155,7 @@
 									"containerExtending": false,
 									"left": 64,
 									"top": 310,
-									"width": 74,
+									"width": 72.12451171875,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -443,7 +443,7 @@
 									"containerExtending": false,
 									"left": 229,
 									"top": 276.5,
-									"width": 180,
+									"width": 178.29541015625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1179,7 +1179,7 @@
 									"containerExtending": false,
 									"left": 199.5,
 									"top": 92.5,
-									"width": 113,
+									"width": 113.28271484375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1494,7 +1494,7 @@
 									"containerExtending": false,
 									"left": 376.5,
 									"top": 164.5,
-									"width": 117,
+									"width": 116.18359375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1809,7 +1809,7 @@
 									"containerExtending": false,
 									"left": 385,
 									"top": 372.5,
-									"width": 121,
+									"width": 119.814453125,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -2124,7 +2124,7 @@
 									"containerExtending": false,
 									"left": 235.5,
 									"top": 436.5,
-									"width": 134,
+									"width": 132.08447265625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -2439,7 +2439,7 @@
 									"containerExtending": false,
 									"left": 102.5,
 									"top": 388.5,
-									"width": 107,
+									"width": 106.8271484375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -3474,7 +3474,7 @@
 									"containerExtending": false,
 									"left": 580.5,
 									"top": 276.5,
-									"width": 97,
+									"width": 97.41357421875,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -3933,7 +3933,7 @@
 									"containerExtending": false,
 									"left": 618.5,
 									"top": 196.5,
-									"width": 89,
+									"width": 88.0380859375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -4248,7 +4248,7 @@
 									"containerExtending": false,
 									"left": 747.5,
 									"top": 268.5,
-									"width": 97,
+									"width": 93.08447265625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -4563,7 +4563,7 @@
 									"containerExtending": false,
 									"left": 618,
 									"top": 364.5,
-									"width": 89,
+									"width": 85.84814453125,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5254,7 +5254,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Articulo",
+											"text": "Alojamiento",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -5865,7 +5865,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+art: Articulo",
+											"text": "+art: Alojamiento",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -9843,7 +9843,7 @@
 									"containerExtending": false,
 									"left": 364,
 									"top": 56,
-									"width": 122,
+									"width": 119.0654296875,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -10131,7 +10131,7 @@
 									"containerExtending": false,
 									"left": 364,
 									"top": 120,
-									"width": 109,
+									"width": 106.79541015625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -10995,7 +10995,7 @@
 									"containerExtending": false,
 									"left": 364,
 									"top": 312,
-									"width": 97,
+									"width": 95.25537109375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -11283,7 +11283,7 @@
 									"containerExtending": false,
 									"left": 596,
 									"top": 176,
-									"width": 96,
+									"width": 93.83984375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -13295,7 +13295,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": true,
-											"text": "MicroArticulo",
+											"text": "MicroAlojamiento",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -19352,7 +19352,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Articulo",
+											"text": "Alojamiento",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -19929,7 +19929,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+buscar(idCli): Articulo",
+											"text": "+buscar(idCli): Alojamiento",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -21267,7 +21267,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+aloj: Articulo",
+											"text": "+art: Alojamiento",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -23584,7 +23584,7 @@
 							"containerExtending": false,
 							"left": 176,
 							"top": 664,
-							"width": 109,
+							"width": 112.55908203125,
 							"height": 38,
 							"autoResize": false,
 							"text": "ARQUITECTURA DETALLADA",
@@ -23676,7 +23676,7 @@
 													"containerExtending": false,
 													"left": 197,
 													"top": 380,
-													"width": 82,
+													"width": 81.39453125,
 													"height": 13,
 													"autoResize": false
 												},
@@ -23700,7 +23700,7 @@
 													"containerExtending": false,
 													"left": 197,
 													"top": 395,
-													"width": 82,
+													"width": 81.39453125,
 													"height": 13,
 													"autoResize": false
 												},
@@ -23724,7 +23724,7 @@
 													"containerExtending": false,
 													"left": 197,
 													"top": 410,
-													"width": 82,
+													"width": 81.39453125,
 													"height": 13,
 													"autoResize": false
 												}
@@ -24650,7 +24650,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGeqUmVgyJlis0="
 					},
-					"name": "Articulo",
+					"name": "Alojamiento",
 					"visibility": "public",
 					"attributes": [
 						{
@@ -25274,7 +25274,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGeqUmVgyJlis0="
 					},
-					"name": "MicroArticulo",
+					"name": "MicroAlojamiento",
 					"visibility": "public"
 				},
 				{
